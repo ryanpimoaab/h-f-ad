@@ -1,3 +1,4 @@
+# Hosts: 48524
 005.free-counter.co.uk
 006.free-adult-counters.x-xtra.com
 006.free-counter.co.uk
@@ -1416,6 +1417,7 @@
 9wjg4.voluumtrk.com
 9zaju.voluumtrk.com
 9zfh1.voluumtrk.com
+_thums.ero-advertising.com
 a-ads.com
 a-counter.com.ua
 a-counter.kiev.ua
@@ -4383,7 +4385,6 @@ ad.doubleclick.net.23557.9075.302br.net
 ad.doubleclick.net.23559.9075.302br.net
 ad.doubleclick.net.23563.9075.302br.net
 ad.doubleclick.net.23565.9075.302br.net
-ad.doubleclick.net.23569.9075.302br.net
 ad.doubleclick.net.23569.9075.302br.net
 ad.doubleclick.net.23571.9075.302br.net
 ad.doubleclick.net.23572.9075.302br.net
@@ -16429,12 +16430,12 @@ admagnet.net
 admail.am
 admailtiser.com
 adman.gr
+adman_test.go2cloud.org
 admanage.com
 admanagement.ch
 admanager.btopenworld.com
 admanager.persianblog.com
 admantic.ru
-adman_test.go2cloud.org
 admarket.entireweb.com
 admarketplace.com
 admarketplace.net
@@ -18309,6 +18310,7 @@ ads96.hpg.com.br
 ads97.hpg.com.br
 ads98.hpg.com.br
 ads99.hpg.com.br
+ads_ad_center.s3.amazonaws.com
 adsafeprotected.com
 adsalvo.com
 adsances.ero-advertising.com
@@ -18765,7 +18767,6 @@ adsweb.tiscali.de
 adsweb.tiscali.it
 adswizz.com
 adsx.greystripe.com
-adsx.greystripe.com
 adsxgm.com
 adsxxxtraff.com
 adsymptotic.com
@@ -18775,7 +18776,6 @@ adsys.townnews.com
 adsyst.biz
 adsystem.tt-forums.net
 adsytipl.indiatimes.com
-ads_ad_center.s3.amazonaws.com
 adtackmedia.go2cloud.org
 adtag.msn.ca
 adtag.sympatico.ca
@@ -30752,6 +30752,7 @@ i7.cmail5.com
 i7.createsend5.com
 i8vnk.voluumtrk.com
 i9mhy.voluumtrk.com
+i_sbitinbsjs_info.tlscdn.com
 ia.spinbox.net
 ia1.7search.com
 ia1.sftcdn.net
@@ -31489,7 +31490,6 @@ iyczm.voluumtrk.com
 iyfnzgb.com
 iymaw.voluumtrk.com
 izzonet.go2cloud.org
-i_sbitinbsjs_info.tlscdn.com
 j-ad.dominiosfree.net
 j.2004cms.com
 j.adlooxtracking.com
@@ -32882,6 +32882,7 @@ m8.webstats.motigo.com
 m9.webstats.motigo.com
 m9qi1.voluumtrk.com
 m9zzz.survey7.adsservingtwig.xyz
+m_graph.vidpark.com
 ma.inmobi.com
 ma.tinyflashlight.com
 ma156-r.analytics.edgesuite.net
@@ -33919,7 +33920,6 @@ mz28ismn.com
 mzqtm.voluumtrk.com
 mzrvi.voluumtrk.com
 mzweb.ivwbox.de
-m_graph.vidpark.com
 n-tv.de.intellitxt.com
 n-tv.met.vgwort.de
 n.bodybuilding.com
@@ -34432,6 +34432,7 @@ o3hll.voluumtrk.com
 o3ozt.voluumtrk.com
 o64x.voluumtrk.com
 o8yrg.voluumtrk.com
+o_thus.ero-advertising.com
 oa4xu.voluumtrk.com
 oad.realmedia.com
 oamtrk.com
@@ -35023,7 +35024,6 @@ oxs1.selsin.net
 oylkc.voluumtrk.com
 oyvir.voluumtrk.com
 ozzhf.voluumtrk.com
-o_thus.ero-advertising.com
 p-bandai-hk.b.appier.net
 p-log.ykimg.com
 p.37lai.com
@@ -35101,6 +35101,7 @@ p8gqd.voluumtrk.com
 p8tre.emv3.com
 p96582.adskape.ru
 p9tre.emv3.com
+p_en.popunder.net
 pa.advertising.veeseo.com
 pa.yahoo.com
 pads.adition.com
@@ -36112,7 +36113,6 @@ pyzct.voluumtrk.com
 pyzou.voluumtrk.com
 pztqt.voluumtrk.com
 pzxld.voluumtrk.com
-p_en.popunder.net
 q.addthis.com
 q.azcentral.com
 q.jmp9.com
@@ -41286,7 +41286,6 @@ view.atdmt.com.25205.9185.302br.net
 view.atdmt.com.25208.9185.302br.net
 view.atdmt.com.25211.9185.302br.net
 view.atdmt.com.25214.9185.302br.net
-view.atdmt.com.25217.9185.302br.net
 view.atdmt.com.25217.9185.302br.net
 view.atdmt.com.26099.9201.302br.net
 view.atdmt.com.26102.9201.302br.net
@@ -48521,5 +48520,3 @@ zyngawithfriends.com
 zz.cqcounter.com
 zz.zeroredirect1.com
 zzz.clickbank.net
-_thums.ero-advertising.com
-# Hosts: 48524
