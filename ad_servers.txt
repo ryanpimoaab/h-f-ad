@@ -1,4 +1,3 @@
-# Hosts: 47618
 005.free-counter.co.uk
 006.free-adult-counters.x-xtra.com
 006.free-counter.co.uk
@@ -1410,7 +1409,6 @@
 9wjg4.voluumtrk.com
 9zaju.voluumtrk.com
 9zfh1.voluumtrk.com
-_thums.ero-advertising.com
 a-ads.com
 a-counter.com.ua
 a-counter.kiev.ua
@@ -16366,12 +16364,12 @@ admagnet.net
 admail.am
 admailtiser.com
 adman.gr
-adman_test.go2cloud.org
 admanage.com
 admanagement.ch
 admanager.btopenworld.com
 admanager.persianblog.com
 admantic.ru
+adman_test.go2cloud.org
 admarket.entireweb.com
 admarketplace.com
 admarketplace.net
@@ -18215,7 +18213,6 @@ ads96.hpg.com.br
 ads97.hpg.com.br
 ads98.hpg.com.br
 ads99.hpg.com.br
-ads_ad_center.s3.amazonaws.com
 adsafeprotected.com
 adsalvo.com
 adsances.ero-advertising.com
@@ -18669,6 +18666,7 @@ adsys.townnews.com
 adsyst.biz
 adsystem.tt-forums.net
 adsytipl.indiatimes.com
+ads_ad_center.s3.amazonaws.com
 adtackmedia.go2cloud.org
 adtag.msn.ca
 adtag.sympatico.ca
@@ -32469,7 +32467,6 @@ m8.webstats.motigo.com
 m9.webstats.motigo.com
 m9qi1.voluumtrk.com
 m9zzz.survey7.adsservingtwig.xyz
-m_graph.vidpark.com
 ma.inmobi.com
 ma.tinyflashlight.com
 ma156-r.analytics.edgesuite.net
@@ -33442,6 +33439,7 @@ mz28ismn.com
 mzqtm.voluumtrk.com
 mzrvi.voluumtrk.com
 mzweb.ivwbox.de
+m_graph.vidpark.com
 n-tv.de.intellitxt.com
 n-tv.met.vgwort.de
 n.bodybuilding.com
@@ -33935,7 +33933,6 @@ o3hll.voluumtrk.com
 o3ozt.voluumtrk.com
 o64x.voluumtrk.com
 o8yrg.voluumtrk.com
-o_thus.ero-advertising.com
 oa4xu.voluumtrk.com
 oamtrk.com
 oaqkv.voluumtrk.com
@@ -34507,6 +34504,7 @@ oxs1.selsin.net
 oylkc.voluumtrk.com
 oyvir.voluumtrk.com
 ozzhf.voluumtrk.com
+o_thus.ero-advertising.com
 p-bandai-hk.b.appier.net
 p-log.ykimg.com
 p.ace.advertising.com
@@ -34582,7 +34580,6 @@ p8gqd.voluumtrk.com
 p8tre.emv3.com
 p96582.adskape.ru
 p9tre.emv3.com
-p_en.popunder.net
 pa.advertising.veeseo.com
 pa.yahoo.com
 pads.adition.com
@@ -35561,6 +35558,7 @@ pyzct.voluumtrk.com
 pyzou.voluumtrk.com
 pztqt.voluumtrk.com
 pzxld.voluumtrk.com
+p_en.popunder.net
 q.addthis.com
 q.azcentral.com
 q.jmp9.com
@@ -47614,3 +47612,5 @@ zyngawithfriends.com
 zz.cqcounter.com
 zz.zeroredirect1.com
 zzz.clickbank.net
+_thums.ero-advertising.com
+# hosts: 47618
