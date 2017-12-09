@@ -29597,6 +29597,8 @@ go.adversal.com
 go.affec.tv
 go.bluewin.ch
 go.by
+go.clickhoptk.com
+go.clicktrackopt.com
 go.coxds.com
 go.deliverymodo.com
 go.delnapb.com
@@ -39442,6 +39444,7 @@ trk4.com
 trkag1.com
 trkclk.net
 trkcpamedia.com
+trkem.com
 trker.com
 trklnks.com
 trks.us
@@ -47613,4 +47616,4 @@ zz.cqcounter.com
 zz.zeroredirect1.com
 zzz.clickbank.net
 _thums.ero-advertising.com
-# hosts: 47618
+# hosts: 47621
