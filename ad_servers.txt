@@ -1088,6 +1088,7 @@
 51yes.com
 52.6.87.194.dynamic.dol.ru
 5234-259b-588d-41c6.reporo.net
+526633146.redpop.pro
 5280publishing.go2cloud.org
 53.6.87.194.dynamic.dol.ru
 535225459.keywordblocks.com
@@ -19667,6 +19668,7 @@ androidquery.appspot.com
 androidsdk.ads.mp.mydas.mobi
 androidsk.ads.mp.mydas.mobi
 andropit.ivwbox.de
+androtify.com
 anet.apx.appier.net
 anet.c.appier.net
 anfyx.voluumtrk.com
@@ -20129,6 +20131,7 @@ asn-trk.advolution.de
 asn.advolution.de
 asooda.com
 asotrack1.fluentmobile.com
+aspair3.fingta.com
 asplayer-ovp.piksel.com
 asqcr.voluumtrk.com
 asrv-a.akamaihd.net
@@ -23191,6 +23194,7 @@ buystream.com
 buysub.com
 buytraf.ru
 buzz.igg.com
+buzzadnetwork.com
 buzzbox.buzzfeed.com
 buzzfeed.d1.sc.omtrdc.net
 buzzreferrals.go2cloud.org
@@ -24458,6 +24462,7 @@ clicknano.com
 clickon.co.il
 clickosmedia.com
 clickpapa.com
+clickppcbuzz.com
 clickquick.com
 clickriver.com
 clicks.about.com
@@ -24760,6 +24765,7 @@ colorfoto.digidip.net
 com-magazin.de.adadapter.netzathleten-media.de
 com-magazin.de.intellitxt.com
 com-symantec.netmng.com
+com-wkejf32ljd23409system.net
 com.24290.9170.302br.net
 com.24293.9170.302br.net
 com.33526.9243.302br.net
@@ -27141,6 +27147,7 @@ digiaffiliate.go2cloud.org
 digibrand.go2cloud.org
 digital.datalabusa.com
 digitaladvisor.go2cloud.org
+digitaldsp.com
 digitalfernsehen.de.intellitxt.com
 digitalone.go2cloud.org
 digitalsalesmedia.go2cloud.org
@@ -28434,6 +28441,7 @@ findanopportunity.com
 findcommerce.com
 findconvenient.com
 findcredible.com
+findepended.com
 findlisted.com
 findmyhood.com
 findnsave.idahostatesman.com
@@ -28580,6 +28588,7 @@ foxnet.demdex.net
 foxnews.tt.omtrdc.net
 foxsimpsons.112.2o7.net
 foxy.track4.com
+foy4a.trackvoluum.com
 foy4a.voluumtrk.com
 fozdw.voluumtrk.com
 fp.buy.com
@@ -30976,6 +30985,7 @@ internet-optimizer.com
 internet-time.com
 internet.cz
 internetcount.com
+internetsshopweb.info
 internettrafficreport.com
 interpr.ru
 interreklame.de
@@ -31209,6 +31219,7 @@ jeanne-hutcherson.us
 jeannette-nauman.us
 jeannie-mccord.us
 jeanswest-com-au.b.appier.net
+jebtrack.com
 jeiup.voluumtrk.com
 jen-lobdell.us
 jena-murrill.us
@@ -32066,6 +32077,7 @@ lm5.spyc.biz
 lmcd.us.intellitxt.com
 lmdemo.netmining.com
 lmebxwbsno.com
+lmimi.snfie.com
 lmjgo.voluumtrk.com
 lmlttrack.com
 ln1-g669.intellitxt.com
@@ -33384,6 +33396,7 @@ myadserve.s3-website-us-east-1.amazonaws.com
 myadvertisingpays.com
 myaffiliateads.com
 myaffiliateprogram.com
+myapplicatioandwebssubonline.info
 mybb.ero-advertising.com
 mybip.go2cloud.org
 mycams.com
@@ -33412,6 +33425,7 @@ myfavoritegames.us.intellitxt.com
 mygosecure.com
 myiframe.com
 myimagetracking.com
+mylikemine.info
 mylistenetwork.go2cloud.org
 mylottoadserv.com
 mymediadownloadsthirtytwo.com
@@ -33687,6 +33701,7 @@ nexac.demdex.net
 nexage.com
 nextlevel.com
 nextmag.apx.appier.net
+nextoptim.com
 nexus.adspirit.de
 nexus.ensighten.com
 nexusads.adspirit.de
@@ -34861,6 +34876,7 @@ picreel.com
 pics.firstload.de
 pics3.inxhost.com
 picupload.tnaflix.com
+piet2eix3l.com
 pigment-adv.co.il
 pimprig.us.intellitxt.com
 pimproll.com
@@ -35149,6 +35165,7 @@ pornlist.mobi
 pornolist.org
 pornoxads.com
 porntrack.com
+pornvideostube.net
 port-advertising.biz
 portableplanet.us.intellitxt.com
 portal.admeld.com
@@ -35676,6 +35693,7 @@ r.af-share.jp
 r.aol.com
 r.apina.biz
 r.bbci.co.uk
+r.best-rated-apps.com
 r.casalemedia.com
 r.chip.de
 r.coolmobile.biz
@@ -36957,6 +36975,7 @@ sessionm.com
 seth.avazutracking.net
 setihome.com
 seto.createsend.com
+setswinners.trade
 sett.i12.de
 settings-sandbox.data.microsoft.com
 settings-win.data.microsoft.com
@@ -38584,6 +38603,7 @@ tga.csbew.com
 tgbvfr.website
 tgp.buzzsession.com
 tgp.pornsponsors.com
+thaidigger.com
 thaliaat02.webtrekk.net
 thaliach02.webtrekk.net
 thaliade02.webtrekk.net
@@ -38650,6 +38670,7 @@ this.content.served.by.adshuffle.com.12417.9035.302br.net
 thisbanner.com
 thisclickisforyou.com
 thisteddagblad.dk
+thogethoffic.co
 thor-cpa.com
 threivetrack.com
 thrgo.pro
@@ -38894,6 +38915,7 @@ track.ahury.com
 track.appsflyer.com
 track.ashley-george.com
 track.atgstores.com
+track.ballerft.site
 track.bannerbridge.net
 track.bestoffertime.com
 track.bidtrk.com
@@ -38910,6 +38932,7 @@ track.celtra.com
 track.chanret.com
 track.cinestar.de
 track.clariad.com
+track.clickbooth.com
 track.clickcabintracker.com
 track.clicksbandit.com
 track.cliqrr.com
@@ -38974,9 +38997,11 @@ track.qoof.com
 track.ra.icast.cn
 track.radins.com
 track.reactionads.com
+track.realwhiznews.com
 track.reasonablespread.com
 track.rediff.com
 track.reinvigorate.net
+track.rejuvenate-lifestyles.com
 track.right-ads.com
 track.ringcentral.com
 track.scanguard.com
@@ -39381,6 +39406,7 @@ tray-e-ex.tekblue.net
 tray-w-ex.tekblue.net
 trc.smtrcplatform.it
 trc.taboola.com
+trck.addiliate.com
 trck.destidyll.com
 trck.dlpo.jp
 trck.illimeet.com
@@ -39418,6 +39444,7 @@ trk.1cpa.ru
 trk.adbutter.net
 trk.adtrkaa.com
 trk.anchtrk.com
+trk.apperol.com
 trk.atdmt.com
 trk.bidtrk.com
 trk.blamads.com
@@ -39430,6 +39457,7 @@ trk.m.libero.it
 trk.mailtoward.com
 trk.meacashtrk.com
 trk.mobile-setting.com
+trk.obix.pro
 trk.pswec.com
 trk.rrcpm.com
 trk.sele.co
@@ -44330,6 +44358,7 @@ womansanga.justclick.ru
 womanwithinsweepstakes2013.brandmovers.net
 womensforum.us.intellitxt.com
 won.images.streamray.com
+wondrousvalue.com
 woopra.com
 wordwatch.go2cloud.org
 workflowboard.com
@@ -44544,6 +44573,7 @@ www.3dots.co.il
 www.49535.com
 www.4qsurvey.com
 www.51yes.com
+www.526633146.redpop.pro
 www.600z.com
 www.718unlimited.com
 www.83nsdjqqo1cau183xz.com
@@ -44841,6 +44871,7 @@ www.amusive.com
 www.anastasia-bale.us
 www.anastasia-okelley.us
 www.andria-beebe.us
+www.androtify.com
 www.angelia-malave.us
 www.anioffers.com
 www.annemarie-gandara.us
@@ -45008,6 +45039,7 @@ www.buttcandy.com
 www.buyhitscheap.com
 www.buysellad.eu
 www.buytraf.ru
+www.buzzadnetwork.com
 www.bwin90.com
 www.c-on-text.com
 www.c2path.com
@@ -45085,6 +45117,7 @@ www.cktagalongs.com
 www.cktrk.net
 www.claire-bonelli.us
 www.clck.ru
+www.clcktrough.com
 www.clddt.com
 www.clear-reports.com
 www.clearspring.com
@@ -45138,6 +45171,7 @@ www.cogtree.com
 www.coinurl.com
 www.coinvisitor.com
 www.colette-connell.us
+www.com-wkejf32ljd23409system.net
 www.comagic.ru
 www.comfm.com
 www.commissionmonster.com
@@ -45497,6 +45531,7 @@ www.fmpub.net
 www.fncnet1.com
 www.forelook.com
 www.foreseeresults.com
+www.foy4a.trackvoluum.com
 www.fpcplugs.com
 www.fpctraffic.com
 www.francesca-studer.us
@@ -45780,6 +45815,7 @@ www.jeanine-ragan.us
 www.jeanine-wiseman.us
 www.jeanne-dargan.us
 www.jeannie-mccord.us
+www.jebtrack.com
 www.jen-lobdell.us
 www.jenna-byrum.us
 www.jennie-griffis.us
@@ -46211,6 +46247,7 @@ www.networksolutionsaffiliates.com
 www.networkwestvirginia.com
 www.networkwestvirginia.net
 www.netzathleten.de
+www.nextoptim.com
 www.ngbn.net
 www.nicolette-brier.us
 www.nicolette-salas.us
@@ -46688,6 +46725,7 @@ www.tess-nell.us
 www.text-link-ads.com
 www.textad.net
 www.tgpmanager.com
+www.thaidigger.com
 www.thanksforinstalling.com
 www.theaffiliate.us
 www.theaffiliatepeople.com
@@ -46702,6 +46740,7 @@ www.thetravelcards.com
 www.thevanda.tk
 www.thindivide.com
 www.thisteddagblad.dk
+www.thogethoffic.co
 www.thor-cpa.com
 www.thrgo.pro
 www.ths9j89.com
@@ -46926,6 +46965,7 @@ www.widgettool.net
 www.wildrhino.com
 www.win7affiliates.com
 www.witchlab.com
+www.wondrousvalue.com
 www.wopnersoft.com
 www.workflowboard.com
 www.workfromhome.org
@@ -46944,6 +46984,7 @@ www.wwwhometime.com
 www.wwwthesharperimage.com
 www.x19network.com
 www.xeanon.com
+www.xhbzz.8vfufnqsd0z1ak1.forax.xyz
 www.xiti.com
 www.xl415.com
 www.xratedtracking.com
@@ -47227,6 +47268,7 @@ xenec.stol.it
 xeontopa.com
 xerox.elicitapp.com
 xfinder.staging.adition.com
+xhbzz.8vfufnqsd0z1ak1.forax.xyz
 xhealthmobiltools.112.2o7.net
 xhr.ajkelra.com
 xhr.avalhukof.com
@@ -47326,6 +47368,7 @@ xiti.com
 xl.topstat.com
 xl415.com
 xlite.counterpath.com
+xml.admeridian.com
 xml.adservme.com
 xml.adtech.fr
 xml.explorads.com
@@ -47335,6 +47378,7 @@ xml.online-adnetwork.com
 xml.sahcdn.com
 xml.searcherpro.net
 xml.trafficsyndicate.com
+xml.vokut.com
 xml.xmlwizard.com
 xml2.trafficsyndicate.com
 xmpie.vo.llnwd.net
@@ -47616,4 +47660,4 @@ zz.cqcounter.com
 zz.zeroredirect1.com
 zzz.clickbank.net
 _thums.ero-advertising.com
-# hosts: 47621
+# hosts: 47665
